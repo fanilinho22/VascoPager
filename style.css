@@ -1,0 +1,57 @@
+.toper{
+    color: whitesmoke;
+    font-family: Helvetica;
+}
+header{
+    background-color: whitesmoke;
+}
+body{
+    background-color: black;
+}
+#titulo{
+    text-align: center;
+    color: black;
+    font-size: 80px;
+}
+.sus{
+    font-size: 15px;
+    text-align: center;
+}
+.texts{
+    width: 60%;
+    margin-left: 100px;
+
+}
+.alinhamento{
+    width: 100%;
+    margin-left: 50px;
+    text-align: left;
+}
+#topinho{
+    align-items: center;
+}
+#vasco {
+    height: 200px;
+    margin-left: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bola{
+    height: 200px;
+    margin-left: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+#fotjob{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#texuto{
+    font-family: Helvetica;
+    color: black;
+}
